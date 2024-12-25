@@ -1,0 +1,30 @@
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\bin\Debug\HCI_project.exe.config
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\bin\Debug\HCI_project.exe
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\bin\Debug\HCI_project.pdb
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.AssemblyReference.cache
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.Properties.Resources.resources
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.GenerateResource.cache
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.CoreCompileInputs.cache
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.exe
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.pdb
+D:\freelancing\HCI-freelancing project\hcidemo\project\HCI_project\HCI_project\obj\Debug\HCI_project.Form1.resources
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\bin\Debug\HCI_project.exe.config
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\bin\Debug\HCI_project.exe
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\bin\Debug\HCI_project.pdb
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.AssemblyReference.cache
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.Form1.resources
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.Properties.Resources.resources
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.GenerateResource.cache
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.CoreCompileInputs.cache
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.exe
+D:\freelancing\HCI-Totsi Zoo\project\HCI_project\HCI_project\obj\Debug\HCI_project.pdb
+C:\Users\DELL\Downloads\HCI_project\HCI_project\bin\Debug\HCI_project.exe.config
+C:\Users\DELL\Downloads\HCI_project\HCI_project\bin\Debug\HCI_project.exe
+C:\Users\DELL\Downloads\HCI_project\HCI_project\bin\Debug\HCI_project.pdb
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.Form1.resources
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.Properties.Resources.resources
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.exe
+C:\Users\DELL\Downloads\HCI_project\HCI_project\obj\Debug\HCI_project.pdb

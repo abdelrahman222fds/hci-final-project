@@ -1,0 +1,13 @@
+train: D:\project\YOLO Animal Detection\train\images
+val: D:\project\YOLO Animal Detection\valid\images
+test: D:\project\YOLO Animal Detection\test\images
+
+nc: 6
+names: ['cat', 'chicken', 'cow', 'dog', 'elephant', 'horse']
+
+roboflow:
+  workspace: yolo-2xmbu
+  project: animals-yolov5-gslnk
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/yolo-2xmbu/animals-yolov5-gslnk/dataset/1

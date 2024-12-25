@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|d:\\freelancing\\hci-totsi zoo\\project\\hci_project\\hci_project\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\hci_project\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|d:\\freelancing\\hci-totsi zoo\\project\\hci_project\\hci_project\\northpolelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\northpolelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\hci_project\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\hci_project\\savannalevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\savannalevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\hci_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66731A1D-10CE-446A-9DA5-C5BC330A210E}|HCI_project\\HCI_project.csproj|solutionrelative:hci_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\Character.cs",
+              "RelativeDocumentMoniker": "HCI_project\\Character.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\Character.cs",
+              "RelativeToolTip": "HCI_project\\Character.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwG4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:11:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthPoleLevel.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\NorthPoleLevel.cs",
+              "RelativeDocumentMoniker": "HCI_project\\NorthPoleLevel.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\NorthPoleLevel.cs",
+              "RelativeToolTip": "HCI_project\\NorthPoleLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:55:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\UIManager.cs",
+              "RelativeDocumentMoniker": "HCI_project\\UIManager.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\UIManager.cs",
+              "RelativeToolTip": "HCI_project\\UIManager.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:19:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\GameManager.cs",
+              "RelativeDocumentMoniker": "HCI_project\\GameManager.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\GameManager.cs",
+              "RelativeToolTip": "HCI_project\\GameManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:03:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\Form1.cs",
+              "RelativeDocumentMoniker": "HCI_project\\Form1.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\Form1.cs",
+              "RelativeToolTip": "HCI_project\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADgv4UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:52:10.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavannaLevel.cs",
+              "DocumentMoniker": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\SavannaLevel.cs",
+              "RelativeDocumentMoniker": "HCI_project\\SavannaLevel.cs",
+              "ToolTip": "D:\\freelancing\\HCI-Totsi Zoo\\project\\HCI_project\\HCI_project\\SavannaLevel.cs",
+              "RelativeToolTip": "HCI_project\\SavannaLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:08:28.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
